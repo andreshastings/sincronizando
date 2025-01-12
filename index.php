@@ -1,3 +1,3 @@
-<?php
- echo "malditos merge";
-?>
+<html>
+    pruebas
+    </html>
